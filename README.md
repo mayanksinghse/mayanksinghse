@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mayanksinghse
 - 👀 I’m interested in New tools and technologies
 - 🌱 I’m currently learning python,go,k8s and docker
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Devops related work.
 - 📫 How to reach me ...Email : mayanksinghse@gmail.com , Mob : 8586870215
 
 <!---
